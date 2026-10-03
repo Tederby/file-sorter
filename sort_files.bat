@@ -21,7 +21,7 @@ set "FOLDER_ANDROID=Android Apps"
 
 call :sortcat "%FOLDER_IMAGES%"    jpg jpeg png gif webp ico svg heic
 call :sortcat "%FOLDER_DOCUMENTS%" pdf docx doc xlsx xls pptx ppt ppsx txt drawio
-call :sortcat "%FOLDER_VIDEO%"     mp4 mkv avi mov
+call :sortcat "%FOLDER_VIDEO%"     mp4 mkv avi mov m4v
 call :sortcat "%FOLDER_AUDIO%"     mp3 wav mid
 call :sortcat "%FOLDER_ARCHIVES%"  zip rar 7z tgz
 call :sortcat "%FOLDER_PROGRAMS%"  exe msi
