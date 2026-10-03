@@ -23,7 +23,7 @@ The script only looks at files **directly inside its own folder**. Existing subf
 | --------------- | ----------------------------------------------------------- |
 | `Images`        | jpg, jpeg, png, gif, webp, ico, svg, heic                   |
 | `Documents`     | pdf, docx, doc, xlsx, xls, pptx, ppt, ppsx, txt, drawio     |
-| `Video`         | mp4, mkv, avi, mov                                          |
+| `Video`         | mp4, mkv, avi, mov, m4v                                     |
 | `Audio`         | mp3, wav, mid                                               |
 | `Compressed`    | zip, rar, 7z, tgz                                           |
 | `Programs`      | exe, msi                                                    |
